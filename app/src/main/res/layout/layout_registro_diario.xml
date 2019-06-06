@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+        android:background="@android:color/background_light"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".RegistroMensalActivity">
+
+    <android.support.design.widget.AppBarLayout
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:theme="@style/AppTheme.AppBarOverlay"
+            tools:ignore="MissingConstraints"
+            android:id="@+id/toolbar">
+
+        <android.support.constraint.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize">
+
+            <ImageView
+                    android:layout_width="27dp"
+                    android:layout_height="27dp" app:srcCompat="@drawable/ic_voltar"
+                    android:id="@+id/imVoltar" app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent"
+                    android:layout_marginLeft="15dp" android:layout_marginStart="15dp"/>
+            <android.support.v7.widget.Toolbar
+                    app:title="Registro do Dia"
+                    android:layout_width="0dp"
+                    android:layout_height="?attr/actionBarSize"
+                    android:background="?attr/colorPrimary"
+                    app:popupTheme="@style/AppTheme.PopupOverlay"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toEndOf="@+id/imVoltar"
+            />
+        </android.support.constraint.ConstraintLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <TextClock
+            android:id="@+id/txtRelogio"
+            android:layout_width="0dp"
+            android:layout_height="65dp"
+            android:layout_centerHorizontal="true"
+            android:textAlignment="center"
+            android:background="@color/colorPrimary"
+            android:padding="30dp"
+            android:textColor="@android:color/background_light"
+            android:textSize="30sp"
+            android:format12Hour="H:mm:ss EEEE"
+            android:format24Hour="H:mm:ss"
+            android:timeZone="GMT-03:00"
+            android:layout_marginEnd="40dp"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginStart="40dp"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintTop_toBottomOf="@+id/toolbar" android:layout_marginTop="20dp"/>
+
+    <TextView
+            android:id="@+id/txtCalendar"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_centerHorizontal="true"
+            android:textAlignment="center"
+            android:background="@color/colorPrimary"
+            android:padding="30dp"
+            android:textColor="@android:color/background_light"
+            android:textSize="30sp"
+            app:layout_constraintTop_toBottomOf="@+id/txtRelogio" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="40dp" app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="40dp"/>
+
+
+</android.support.constraint.ConstraintLayout>

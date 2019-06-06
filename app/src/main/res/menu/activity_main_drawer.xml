@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:id="@+id/drawer_grupo">
+        <item
+                android:id="@+id/grupos"
+                android:icon="@drawable/ic_grupo"
+                android:title="Meus Grupos"/>
+    </group>
+
+    <group android:id="@+id/drawer_opcoes">
+        <item
+                android:id="@+id/registro_mensal"
+                android:icon="@drawable/ic_calendario"
+                android:title="Registro Mensal"/>
+        <item
+                android:id="@+id/contatos"
+                android:icon="@drawable/ic_contatos"
+                android:title="Meus Contatos"/>
+    </group>
+
+    <group android:id="@+id/drawer_configuracoes">
+        <item
+                android:id="@+id/configuracao"
+                android:icon="@drawable/ic_configuracao"
+                android:title="Configuração"/>
+        <item
+                android:id="@+id/duvidas"
+                android:icon="@drawable/ic_duvida"
+                android:title="Dúvidas Frequentes"/>
+    </group>
+
+</menu>
