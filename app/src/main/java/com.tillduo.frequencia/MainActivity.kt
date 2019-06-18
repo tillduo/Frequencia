@@ -14,6 +14,7 @@ import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.app_bar_main.*
 import kotlinx.android.synthetic.main.content_main.*
+import java.util.*
 
 class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
 
@@ -30,13 +31,16 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 //        ).build()
 
         cvCalendario.setOnDateChangeListener(){ view, year, month, dayOfMonth ->
+
+            val calendar: Calendar = Calendar.getInstance()
+            calendar.set(year, month, dayOfMonth)
+            val dayOfWeek: Int = calendar.get(Calendar.DAY_OF_WEEK)
+
             val intent = Intent(this, RegistroDiarioActivity::class.java)
-            val data: String = ""+(dayOfMonth)+"/"+(month+1)+"/"+(year)
+            val data: String = ""+ (converterSemana(dayOfWeek))+ "\n" +(dayOfMonth)+"/"+(month+1)+"/"+(year)
             intent.putExtra("data", data)
 
-            // Erro ao tentar redirecionar
-//            startActivity(intent)
-            Toast.makeText(applicationContext, data,0).show()
+            startActivity(intent)
         }
 
         fab.setOnClickListener {
@@ -51,6 +55,21 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         toggle.syncState()
 
         nav_view.setNavigationItemSelectedListener(this)
+    }
+
+    private fun converterSemana(week: Int): String{
+        var dayOfWeek: String = ""
+
+        when(week){
+            1 ->{dayOfWeek = "Domingo"}
+            2 ->{dayOfWeek = "Segunda-feira"}
+            3 ->{dayOfWeek = "Terça-feira"}
+            4 ->{dayOfWeek = "Quarta-feira"}
+            5 ->{dayOfWeek = "Quinta-feira"}
+            6 ->{dayOfWeek = "Sexta-feira"}
+            7 ->{dayOfWeek = "Sábado"}
+        }
+        return dayOfWeek
     }
 
     override fun onBackPressed() {

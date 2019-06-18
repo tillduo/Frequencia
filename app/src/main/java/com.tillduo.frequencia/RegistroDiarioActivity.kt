@@ -11,10 +11,20 @@ class RegistroDiarioActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.layout_registro_diario)
 
-        txtCalendar.text = intent.getStringExtra("data")
+        txtDia.text = intent.getStringExtra("data")
 
         imVoltar.setOnClickListener{
             onBackPressed()
+        }
+
+        imMensal.setOnClickListener{
+            startActivity(Intent(this, RegistroMensalActivity::class.java))
+            finish()
+        }
+
+        fab.setOnClickListener {
+            startActivity(Intent(this, CameraActivity::class.java))
+            finish()
         }
     }
 

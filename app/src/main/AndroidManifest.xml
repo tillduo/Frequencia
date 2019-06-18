@@ -6,6 +6,9 @@
     <uses-permission android:name="android.hardware.camera" />
     <uses-permission android:name="android.permission.LOCATION_HARDWARE.autofocus" />
 
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
             android:allowBackup="true"
             android:icon="@mipmap/ic_launcher"
@@ -14,6 +17,9 @@
             android:supportsRtl="true"
             android:theme="@style/AppTheme"
             android:appCategory="social">
+
+        <meta-data android:name="com.google.android.gms.version"
+                   android:value="@integer/google_play_services_version"/>
 
         <activity android:screenOrientation="portrait"
                   android:theme="@style/AppTheme.NoActionBar"
@@ -51,6 +57,12 @@
                   android:screenOrientation="portrait"
                   android:name=".MainActivity">
         </activity>
+
+        <activity android:screenOrientation="portrait"
+                  android:theme="@style/AppTheme.NoActionBar"
+                  android:name=".RegistroDiarioActivity"></activity>
+        <meta-data android:name="com.google.android.geo.API_KEY"
+                   android:value="@string/maps_key"/>
 
         <activity
                 android:name=".CadastroActivity"

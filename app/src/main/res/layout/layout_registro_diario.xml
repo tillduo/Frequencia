@@ -5,7 +5,7 @@
         android:background="@android:color/background_light"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".RegistroMensalActivity">
+        tools:context=".RegistroDiarioActivity">
 
     <android.support.design.widget.AppBarLayout
             android:layout_height="wrap_content"
@@ -24,6 +24,7 @@
                     android:id="@+id/imVoltar" app:layout_constraintTop_toTopOf="parent"
                     app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent"
                     android:layout_marginLeft="15dp" android:layout_marginStart="15dp"/>
+
             <android.support.v7.widget.Toolbar
                     app:title="Registro do Dia"
                     android:layout_width="0dp"
@@ -31,43 +32,66 @@
                     android:background="?attr/colorPrimary"
                     app:popupTheme="@style/AppTheme.PopupOverlay"
                     app:layout_constraintTop_toTopOf="parent"
-                    app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toEndOf="@+id/imVoltar"
+                    android:id="@+id/toolbar2" app:layout_constraintEnd_toStartOf="@+id/imMensal"
             />
+
+            <ImageView
+                    android:layout_width="27dp"
+                    android:layout_height="27dp" app:srcCompat="@drawable/ic_calendario"
+                    android:id="@+id/imMensal" app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintVertical_bias="0.551"
+                    app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="15dp"/>
         </android.support.constraint.ConstraintLayout>
     </android.support.design.widget.AppBarLayout>
 
     <TextClock
             android:id="@+id/txtRelogio"
-            android:layout_width="0dp"
-            android:layout_height="65dp"
+            android:layout_width="205dp"
+            android:layout_height="100dp"
             android:layout_centerHorizontal="true"
             android:textAlignment="center"
             android:background="@color/colorPrimary"
             android:padding="30dp"
             android:textColor="@android:color/background_light"
-            android:textSize="30sp"
+            android:textSize="24sp"
             android:format12Hour="H:mm:ss EEEE"
             android:format24Hour="H:mm:ss"
             android:timeZone="GMT-03:00"
-            android:layout_marginEnd="40dp"
-            app:layout_constraintEnd_toEndOf="parent" android:layout_marginStart="40dp"
-            app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.0"
-            app:layout_constraintTop_toBottomOf="@+id/toolbar" android:layout_marginTop="20dp"/>
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/toolbar"
+            android:gravity="center"/>
 
     <TextView
-            android:id="@+id/txtCalendar"
+            android:text="Dia da Semana\nDia do Mês"
             android:layout_width="0dp"
-            android:layout_height="45dp"
-            android:layout_centerHorizontal="true"
+            android:layout_height="100dp"
+            android:id="@+id/txtDia"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/txtRelogio"
+            app:layout_constraintTop_toBottomOf="@+id/toolbar"
             android:textAlignment="center"
-            android:background="@color/colorPrimary"
-            android:padding="30dp"
-            android:textColor="@android:color/background_light"
-            android:textSize="30sp"
-            app:layout_constraintTop_toBottomOf="@+id/txtRelogio" app:layout_constraintEnd_toEndOf="parent"
-            android:layout_marginEnd="40dp" app:layout_constraintStart_toStartOf="parent"
-            android:layout_marginStart="40dp"/>
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary"
+            android:gravity="center"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"/>
 
+    <android.support.design.widget.CoordinatorLayout
+            android:layout_height="100dp"
+            android:layout_width="0dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent">
+        <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|end"
+                android:layout_margin="@dimen/fab_margin"
+                app:srcCompat="@drawable/ic_relogio"/>
+    </android.support.design.widget.CoordinatorLayout>
 
 </android.support.constraint.ConstraintLayout>
