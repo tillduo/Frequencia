@@ -1356,9 +1356,9 @@ id blocking
 id bottom
 id btnCadastrar
 id btnLogar
-id btn_NovoGrupo
 id buttonPanel
 id cancel_action
+id cbNotificacao
 id center
 id center_horizontal
 id center_vertical
@@ -1420,6 +1420,7 @@ id icon_group
 id icon_only
 id ifRoom
 id imMensal
+id imNovo
 id imVoltar
 id image
 id imageView
@@ -1512,6 +1513,7 @@ id progress_circular
 id progress_horizontal
 id radio
 id registro_mensal
+id relative_layout
 id right
 id right_icon
 id right_side
@@ -1568,7 +1570,6 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
-id textView
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
@@ -1587,14 +1588,15 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
+id txtConfirmSenhaCadastro
 id txtDia
 id txtEmailCadastro
 id txtEmailLogin
 id txtNomeCadastro
-id txtNomeUsuarioMenu
 id txtRelogio
 id txtSenhaCadastro
 id txtSenhaLogin
+id txtUsuarioLogado
 id uniform
 id unlabeled
 id up
@@ -1792,10 +1794,10 @@ string common_google_play_services_wear_update_text
 string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
+string email_usuario
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
-string maps_key
 string mr_button_content_description
 string mr_cast_button_connected
 string mr_cast_button_connecting
@@ -1826,12 +1828,15 @@ string nav_header_subtitle
 string nav_header_title
 string navigation_drawer_close
 string navigation_drawer_open
+string nome_usuario
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
+string senha_usuario
+string sound_selected
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
@@ -2429,3 +2434,4 @@ styleable Toolbar android_gravity android_minHeight buttonGravity collapseConten
 styleable View android_theme android_focusable paddingEnd paddingStart theme
 styleable ViewBackgroundHelper android_background backgroundTint backgroundTintMode
 styleable ViewStubCompat android_id android_layout android_inflatedId
+xml activity_configuracao

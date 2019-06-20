@@ -3,7 +3,10 @@ package com.tillduo.frequencia
 import android.support.v7.app.AppCompatActivity
 import android.content.Intent
 import android.os.Bundle
+import kotlinx.android.synthetic.main.layout_registro_diario.*
 import kotlinx.android.synthetic.main.layout_registro_mensal.*
+import kotlinx.android.synthetic.main.layout_registro_mensal.fab
+import kotlinx.android.synthetic.main.layout_registro_mensal.imVoltar
 
 class RegistroMensalActivity : AppCompatActivity() {
 
@@ -13,6 +16,11 @@ class RegistroMensalActivity : AppCompatActivity() {
 
         imVoltar.setOnClickListener{
             onBackPressed()
+        }
+
+        fab.setOnClickListener {
+            startActivity(Intent(this, CameraActivity::class.java))
+            finish()
         }
     }
 

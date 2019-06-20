@@ -1,4 +1,4 @@
-#Mon Jun 17 19:18:30 GMT-03:00 2019
+#Thu Jun 20 18:57:50 GMT-03:00 2019
 base.0=C\:\\Users\\Thalyson Lira\\Desktop\\Icons\\Frequencia-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
 path.0=classes.dex
 renamed.0=classes.dex

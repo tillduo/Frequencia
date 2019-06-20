@@ -29,13 +29,13 @@
             android:visibility="visible">
 
         <TextView
-                android:text="Nome do Usuário"
-                android:id="@+id/txtNomeUsuarioMenu"
+                android:text="@string/nome_usuario"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="@android:color/background_light"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintBottom_toBottomOf="parent"/>
+                app:layout_constraintBottom_toBottomOf="parent"
+                android:id="@+id/txtUsuarioLogado"/>
 
     </android.support.constraint.ConstraintLayout>
 </LinearLayout>

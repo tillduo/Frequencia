@@ -71,11 +71,6 @@
             android:name="com.tillduo.frequencia.RegistroDiarioActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
-
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="@string/maps_key" />
-
         <activity
             android:name="com.tillduo.frequencia.CadastroActivity"
             android:screenOrientation="portrait" >

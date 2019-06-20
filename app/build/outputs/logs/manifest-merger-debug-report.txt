@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-78:12
-INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-78:12
-INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-78:12
-INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-78:12
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\abe87c8ac4cfff16bc521a90108ea5e7\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:mediarouter-v7:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\2552586eeb65e4cb4f10eb3019cbe102\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\02902021fa3f4bb2d8db7a3f33501ed0\AndroidManifest.xml:17:1-22:12
@@ -49,51 +49,51 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Thalyson Lira\.gr
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\1943360c292a39c33e23660edb9820fa\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\161e3b67fc571465d98d77ed9a6ff276\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\04437cd6eb14855995291b454371c893\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-78:12
-INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-78:12
-INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
 	package
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:3:58-90
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:4:11-43
 		INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-78:12
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
 		INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:3:11-57
 	android:versionCode
 		INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-78:12
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
 		INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:4:5-65
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:5:5-65
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:4:22-62
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:5:22-62
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:5:5-66
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:5:22-63
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:6:22-63
 uses-permission#android.hardware.camera
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:6:5-63
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:7:5-63
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:6:22-60
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:7:22-60
 uses-permission#android.permission.LOCATION_HARDWARE.autofocus
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:7:5-86
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:8:5-86
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:7:22-83
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:8:22-83
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:9:5-79
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:9:22-76
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:10:22-76
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:10:5-67
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:10:22-64
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:11:22-64
 application
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:12:5-76:19
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:13:5-75:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\abe87c8ac4cfff16bc521a90108ea5e7\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\abe87c8ac4cfff16bc521a90108ea5e7\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\090dd7a7314182cfcf6b659d431d2a31\AndroidManifest.xml:9:5-20
@@ -121,129 +121,123 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Thalyson L
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\cc19b764a80bddec2df03923f70ad4d4\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:17:13-39
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:18:13-39
 	android:label
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:15:13-45
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:16:13-45
 	android:appCategory
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:19:13-41
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:20:13-41
 	android:roundIcon
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:16:13-58
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:17:13-58
 	android:icon
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:14:13-47
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:15:13-47
 	android:allowBackup
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:13:13-39
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:14:13-39
 	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:18:13-44
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:19:13-44
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:21:9-22:75
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:22:9-23:75
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\143436dd527c2903623d456bee3cbb83\AndroidManifest.xml:23:9-25:69
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\143436dd527c2903623d456bee3cbb83\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:22:20-73
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:23:20-73
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:21:20-65
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:22:20-65
 activity#com.tillduo.frequencia.LoginActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:24:9-26:60
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:25:9-27:60
 	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:24:19-55
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:25:19-55
 	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:25:19-62
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:26:19-62
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:26:19-48
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:27:19-48
 activity#com.tillduo.frequencia.CameraActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:28:9-30:61
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:29:9-31:61
 	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:28:19-55
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:29:19-55
 	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:29:19-62
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:30:19-62
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:30:19-49
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:31:19-49
 activity#com.tillduo.frequencia.ConfiguracaoActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:32:9-34:67
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:33:9-35:67
 	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:32:19-55
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:33:19-55
 	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:33:19-62
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:34:19-62
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:34:19-55
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:35:19-55
 activity#com.tillduo.frequencia.GruposActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:36:9-38:61
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:37:9-39:61
 	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:36:19-55
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:37:19-55
 	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:37:19-62
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:38:19-62
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:38:19-49
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:39:19-49
 activity#com.tillduo.frequencia.ContatosActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:40:9-42:63
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:41:9-43:63
 	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:40:19-55
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:41:19-55
 	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:41:19-62
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:42:19-62
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:42:19-51
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:43:19-51
 activity#com.tillduo.frequencia.DuvidasActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:44:9-46:62
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:45:9-47:62
 	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:44:19-55
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:45:19-55
 	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:45:19-62
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:46:19-62
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:46:19-50
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:47:19-50
 activity#com.tillduo.frequencia.RegistroMensalActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:48:9-50:69
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:49:9-51:69
 	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:48:19-55
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:49:19-55
 	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:49:19-62
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:50:19-62
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:50:19-57
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:51:19-57
 activity#com.tillduo.frequencia.NotificacaoActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:52:9-54:66
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:53:9-55:66
 	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:52:19-55
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:53:19-55
 	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:53:19-62
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:54:19-62
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:54:19-54
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:55:19-54
 activity#com.tillduo.frequencia.MainActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:56:9-59:20
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:57:9-60:20
 	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:57:19-55
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:58:19-55
 	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:56:19-62
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:57:19-62
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:58:19-47
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:59:19-47
 activity#com.tillduo.frequencia.RegistroDiarioActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:61:9-63:69
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:62:9-64:69
 	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:61:19-55
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:62:19-55
 	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:62:19-62
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:63:19-62
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:63:19-57
-meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:64:9-65:54
-	android:value
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:65:20-52
-	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:64:20-65
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:64:19-57
 activity#com.tillduo.frequencia.CadastroActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:67:9-75:20
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:66:9-74:20
 	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:69:17-53
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:68:17-53
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:68:17-49
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:67:17-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:70:13-74:29
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:69:13-73:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:71:17-68
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:70:17-68
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:71:25-66
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:70:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:73:17-76
+ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:72:17-76
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:73:27-74
+		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:72:27-74
 uses-sdk
 INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml

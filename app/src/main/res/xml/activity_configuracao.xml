@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Conta" android:textStyle="bold"
+                        android:textColor="@color/design_default_color_primary_dark"
+                        android:textSize="18sp" android:textAllCaps="false">
+
+        <EditTextPreference
+                android:dialogTitle="Alterar nome de usuário"
+                android:key="nome_usuario"
+                android:summary="@string/nome_usuario"
+                android:title="Nome de usuário"
+                android:inputType="text"/>
+
+        <EditTextPreference
+                android:dialogTitle="Alterar email de usuário"
+                android:key="email_usuario"
+                android:summary="@string/email_usuario"
+                android:title="Email"
+                android:inputType="text"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Opções de notificação"
+                        android:textColor="@color/design_default_color_primary_dark"
+                        android:textStyle="bold"
+                        android:textSize="18sp">
+
+        <CheckBoxPreference
+                android:id="@+id/cbNotificacao"
+                android:key="habilitar_noticacao"
+                android:summary="Habilitar notificações"
+                android:title="Notificação"/>
+
+        <RingtonePreference
+                android:key="som_notificacao"
+                android:showDefault="true"
+                android:showSilent="true"
+                android:summary="@string/sound_selected"
+                android:title="Som de notificação"/>
+        ...
+    </PreferenceCategory>
+</PreferenceScreen>

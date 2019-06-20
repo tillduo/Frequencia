@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          xmlns:tools="http://schemas.android.com/tools" package="com.tillduo.frequencia">
+          xmlns:tools="http://schemas.android.com/tools"
+          package="com.tillduo.frequencia">
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.hardware.camera" />
@@ -61,8 +62,6 @@
         <activity android:screenOrientation="portrait"
                   android:theme="@style/AppTheme.NoActionBar"
                   android:name=".RegistroDiarioActivity"></activity>
-        <meta-data android:name="com.google.android.geo.API_KEY"
-                   android:value="@string/maps_key"/>
 
         <activity
                 android:name=".CadastroActivity"

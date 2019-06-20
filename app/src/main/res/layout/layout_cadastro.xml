@@ -11,15 +11,24 @@
 
     <EditText
             android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:inputType="textPassword"
+            android:ems="10"
+            android:id="@+id/txtConfirmSenhaCadastro" android:layout_marginTop="40dp"
+            app:layout_constraintTop_toBottomOf="@+id/txtSenhaCadastro" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="40dp" app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="40dp" android:hint="Confirmar Senha"/>
+    <EditText
+            android:layout_width="0dp"
             android:layout_height="52dp"
             android:inputType="textPersonName"
             android:ems="10"
-            android:id="@+id/txtNomeCadastro" android:layout_marginTop="130dp"
+            android:id="@+id/txtNomeCadastro" android:layout_marginTop="100dp"
             app:layout_constraintTop_toTopOf="parent"
-            android:hint="Nome de Usuário"
-            app:layout_constraintStart_toStartOf="parent" android:layout_marginLeft="40dp"
+            android:hint="Nome"
+            app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="40dp" app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="40dp"
-            android:layout_marginRight="40dp" app:layout_constraintHorizontal_bias="0.0"/>
+            app:layout_constraintHorizontal_bias="0.0"/>
     <EditText
             android:layout_width="0dp"
             android:layout_height="46dp"
@@ -32,36 +41,34 @@
             app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHorizontal_bias="0.0"
             android:layout_marginEnd="40dp" android:layout_marginRight="40dp" android:layout_marginLeft="40dp"
             android:layout_marginStart="40dp"/>
-    <EditText
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:inputType="textPassword"
-            android:ems="10"
-            android:id="@+id/txtSenhaCadastro"
-            android:hint="Senha"
-            app:layout_constraintStart_toStartOf="parent" android:layout_marginLeft="40dp"
-            android:layout_marginStart="40dp" android:layout_marginEnd="40dp" app:layout_constraintEnd_toEndOf="parent"
-            android:layout_marginRight="40dp" app:layout_constraintHorizontal_bias="0.0"
-            android:layout_marginTop="40dp" app:layout_constraintTop_toBottomOf="@+id/txtEmailCadastro"/>
     <Button
             android:text="Cadastrar"
             android:layout_width="98dp"
             android:layout_height="wrap_content"
             android:id="@+id/btnCadastrar"
             android:background="@color/colorPrimary"
-            android:textColor="@android:color/background_light" android:layout_marginTop="80dp"
-            app:layout_constraintTop_toBottomOf="@+id/txtSenhaCadastro"
-            android:layout_marginEnd="8dp" app:layout_constraintEnd_toEndOf="parent" android:layout_marginRight="8dp"
+            android:textColor="@android:color/background_light"
+            android:layout_marginEnd="8dp" app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginStart="8dp" app:layout_constraintStart_toStartOf="parent"
-            android:layout_marginLeft="8dp"/>
+            app:layout_constraintHorizontal_bias="0.498"
+            android:layout_marginTop="40dp" app:layout_constraintTop_toBottomOf="@+id/txtConfirmSenhaCadastro"/>
     <TextView
             android:text="Já possui uma conta?"
             android:layout_width="wrap_content"
             android:layout_height="26dp"
             android:id="@+id/lblIrParaLogin"
-            app:layout_constraintStart_toStartOf="parent" android:layout_marginLeft="40dp"
+            app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="40dp"
             android:layout_marginBottom="40dp" app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="40dp"
-            android:layout_marginRight="40dp" android:textColor="@color/colorAccent"/>
+            android:textColor="@color/design_default_color_primary_dark"/>
+    <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:ems="10"
+            android:id="@+id/txtSenhaCadastro" android:layout_marginTop="40dp"
+            app:layout_constraintTop_toBottomOf="@+id/txtEmailCadastro" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="40dp" app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="40dp" android:hint="Senha"/>
 </android.support.constraint.ConstraintLayout>
