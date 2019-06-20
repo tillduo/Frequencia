@@ -24,7 +24,7 @@
 
         <activity android:screenOrientation="portrait"
                   android:theme="@style/AppTheme.NoActionBar"
-                  android:name=".LoginActivity"></activity>
+                  android:name=".CadastroActivity"></activity>
 
         <activity android:screenOrientation="portrait"
                   android:theme="@style/AppTheme.NoActionBar"
@@ -64,7 +64,7 @@
                   android:name=".RegistroDiarioActivity"></activity>
 
         <activity
-                android:name=".CadastroActivity"
+                android:name=".LoginActivity"
                 android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
