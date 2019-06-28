@@ -3,8 +3,10 @@ package com.tillduo.frequencia
 import android.content.Context
 import android.content.Intent
 import android.content.pm.PackageManager
+import android.os.Build
 import android.os.Bundle
 import android.os.Vibrator
+import android.support.annotation.RequiresApi
 import android.support.v4.app.ActivityCompat
 import android.support.v4.content.ContextCompat
 import android.support.v7.app.AlertDialog
@@ -12,11 +14,18 @@ import android.support.v7.app.AppCompatActivity
 import com.google.zxing.Result
 import me.dm7.barcodescanner.zxing.ZXingScannerView
 import me.dm7.barcodescanner.zxing.ZXingScannerView.ResultHandler
+import java.time.DayOfWeek
+import java.time.LocalDateTime
+
 
 class CameraActivity : AppCompatActivity(), ResultHandler {
 
+    @RequiresApi(Build.VERSION_CODES.O)
+    val localDate = LocalDateTime.now()
     private val REQUEST_CAMERA = 1
     private var scanner: ZXingScannerView? = null
+    @RequiresApi(Build.VERSION_CODES.O)
+    var dataHoje = ""+ (converterSemana(localDate.dayOfWeek))+ "\n" +(localDate.dayOfMonth)+"/"+(localDate.monthValue)+"/"+(localDate.year) + "\n" +(localDate.hour)+":"+(localDate.minute)+":"+(localDate.second)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -41,6 +50,15 @@ class CameraActivity : AppCompatActivity(), ResultHandler {
 
     override fun onBackPressed() {
         startActivity(Intent(this, MainActivity::class.java))
+        finish()
+    }
+
+    fun finaliza(mensagem: String){
+        val intent = Intent(this, RegistroDiarioActivity::class.java)
+        intent.putExtra("mensagem", mensagem)
+        intent.putExtra("flag", 1)
+        intent.putExtra("data", dataHoje)
+        startActivity(intent)
         finish()
     }
 
@@ -71,11 +89,27 @@ class CameraActivity : AppCompatActivity(), ResultHandler {
 
         builder.setPositiveButton("Ok"){
                 dialog,wich ->
-            onBackPressed()
+            finaliza(mensagem.toString())
         }
 
         builder.setMessage(mensagem)
         val alert = builder.create()
         alert.show()
+    }
+
+    @RequiresApi(Build.VERSION_CODES.O)
+    private fun converterSemana(week: DayOfWeek): String{
+        var dayOfWeek: String = ""
+
+        when(week){
+            DayOfWeek.SUNDAY ->{dayOfWeek = "Domingo"}
+            DayOfWeek.MONDAY ->{dayOfWeek = "Segunda-feira"}
+            DayOfWeek.TUESDAY ->{dayOfWeek = "Terça-feira"}
+            DayOfWeek.WEDNESDAY ->{dayOfWeek = "Quarta-feira"}
+            DayOfWeek.THURSDAY ->{dayOfWeek = "Quinta-feira"}
+            DayOfWeek.FRIDAY ->{dayOfWeek = "Sexta-feira"}
+            DayOfWeek.SATURDAY ->{dayOfWeek = "Sábado"}
+        }
+        return dayOfWeek
     }
 }

@@ -31,7 +31,7 @@
             android:value="@integer/google_play_services_version" />
 
         <activity
-            android:name="com.tillduo.frequencia.LoginActivity"
+            android:name="com.tillduo.frequencia.CadastroActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
@@ -72,7 +72,7 @@
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.tillduo.frequencia.CadastroActivity"
+            android:name="com.tillduo.frequencia.LoginActivity"
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -88,11 +88,6 @@
         <meta-data
             android:name="android.support.VERSION"
             android:value="26.1.0" />
-
-        <provider
-            android:name="com.android.tools.ir.server.InstantRunContentProvider"
-            android:authorities="com.tillduo.frequencia.com.android.tools.ir.server.InstantRunContentProvider"
-            android:multiprocess="true" />
     </application>
 
 </manifest>

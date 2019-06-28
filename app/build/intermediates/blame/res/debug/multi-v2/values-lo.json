@@ -1,44 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Thalyson Lira\\Desktop\\Icons\\Frequencia-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo\\values-lo.xml",
+            "outputFile": "C:\\Users\\User\\StudioProjects\\Frequencia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo\\values-lo.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Thalyson Lira\\.gradle\\caches\\transforms-2\\files-2.1\\143436dd527c2903623d456bee3cbb83\\res\\values-lo\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "190",
-                        "endOffsets": "437"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "3929",
-                        "endColumns": "190",
-                        "endOffsets": "4115"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Thalyson Lira\\.gradle\\caches\\transforms-2\\files-2.1\\02902021fa3f4bb2d8db7a3f33501ed0\\res\\values-lo\\values-lo.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,305,412,497,602,714,791,869,960,1053,1149,1243,1344,1437,1532,1626,1717,1808,1888,1995,2092,2190,2295,2398,2502,2659,2755",
-                        "endColumns": "102,96,106,84,104,111,76,77,90,92,95,93,100,92,94,93,90,90,79,106,96,97,104,102,103,156,95,80",
-                        "endOffsets": "203,300,407,492,597,709,786,864,955,1048,1144,1238,1339,1432,1527,1621,1712,1803,1883,1990,2087,2185,2290,2393,2497,2654,2750,2831"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,68",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,305,412,497,602,714,791,869,960,1053,1149,1243,1344,1437,1532,1626,1717,1808,1888,1995,2092,2190,2295,2398,2502,2659,7565",
-                        "endColumns": "102,96,106,84,104,111,76,77,90,92,95,93,100,92,94,93,90,90,79,106,96,97,104,102,103,156,95,80",
-                        "endOffsets": "203,300,407,492,597,709,786,864,955,1048,1144,1238,1339,1432,1527,1621,1712,1803,1883,1990,2087,2185,2290,2393,2497,2654,2750,7641"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Thalyson Lira\\.gradle\\caches\\transforms-2\\files-2.1\\cc19b764a80bddec2df03923f70ad4d4\\res\\values-lo\\values-lo.xml",
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\4852b6c1eb6c7bf59831a410fbbb613c\\res\\values-lo\\values-lo.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -55,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Thalyson Lira\\.gradle\\caches\\transforms-2\\files-2.1\\3f6ecf9751aef18eb274c5b6df64d5c6\\res\\values-lo\\values.xml",
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\65e6ecff36401a819b064e8f1c0d61d7\\res\\values-lo\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -72,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Thalyson Lira\\.gradle\\caches\\transforms-2\\files-2.1\\2552586eeb65e4cb4f10eb3019cbe102\\res\\values-lo\\values-lo.xml",
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\3447947b92074c5b73f48e4178309836\\res\\values-lo\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "190",
+                        "endOffsets": "437"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3929",
+                        "endColumns": "190",
+                        "endOffsets": "4115"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\b337d8ce9c1bce2b49caac0e480f2fda\\res\\values-lo\\values-lo.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -86,6 +69,23 @@
                         "startOffsets": "5498,5601,5714,5829,5951,6048,6139,6236,6342,6436,6531,6630,6722,6824,6931,7020,7103,7184,7286,7386,7471",
                         "endColumns": "102,112,114,121,96,90,96,105,93,94,98,91,101,106,88,82,80,101,99,84,93",
                         "endOffsets": "5596,5709,5824,5946,6043,6134,6231,6337,6431,6526,6625,6717,6819,6926,7015,7098,7179,7281,7381,7466,7560"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\396f5b190890d7bae52f34e2ce42d003\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,305,412,497,602,714,791,869,960,1053,1149,1243,1344,1437,1532,1626,1717,1808,1888,1995,2092,2190,2295,2398,2502,2659,2755",
+                        "endColumns": "102,96,106,84,104,111,76,77,90,92,95,93,100,92,94,93,90,90,79,106,96,97,104,102,103,156,95,80",
+                        "endOffsets": "203,300,407,492,597,709,786,864,955,1048,1144,1238,1339,1432,1527,1621,1712,1803,1883,1990,2087,2185,2290,2393,2497,2654,2750,2831"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,68",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,305,412,497,602,714,791,869,960,1053,1149,1243,1344,1437,1532,1626,1717,1808,1888,1995,2092,2190,2295,2398,2502,2659,7565",
+                        "endColumns": "102,96,106,84,104,111,76,77,90,92,95,93,100,92,94,93,90,90,79,106,96,97,104,102,103,156,95,80",
+                        "endOffsets": "203,300,407,492,597,709,786,864,955,1048,1144,1238,1339,1432,1527,1621,1712,1803,1883,1990,2087,2185,2290,2393,2497,2654,2750,7641"
                     }
                 }
             ]

@@ -1,360 +1,360 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
-INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
-INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
-INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
-MERGED from [com.android.support:design:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\abe87c8ac4cfff16bc521a90108ea5e7\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:mediarouter-v7:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\2552586eeb65e4cb4f10eb3019cbe102\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\02902021fa3f4bb2d8db7a3f33501ed0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\090dd7a7314182cfcf6b659d431d2a31\AndroidManifest.xml:2:1-11:12
-MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\e3aa297681172dd570be8cd41cadd2dd\AndroidManifest.xml:17:1-24:12
-MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\407ec149f84e90cea4489b307b2a77f1\AndroidManifest.xml:2:1-13:12
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\f3606a2b6a49bd29e27cc8c8e5a01b4b\AndroidManifest.xml:2:1-9:12
-MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a653d3c617140a7956ba764d9de1bea3\AndroidManifest.xml:2:1-13:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\3f6ecf9751aef18eb274c5b6df64d5c6\AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\cc59a8cfe9353a3bed4cd97af06d6c54\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\fda8887bcbab46b81a377e89edcda0b3\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\143436dd527c2903623d456bee3cbb83\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a5d11185cfab9c7832d749c7e8936b21\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\20bbcbc0b395e146188df23a9e9c8d7c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\3547027845a9c88788c8f0df1773c799\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\8bb1700739448be89de0f0447cb09313\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a57545bb1c04387db69bf01d366e98f7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\19a4138aaffecbc59d49bc08ce7ecd72\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\f5cbe78571f9707cf49adf41e2b9f12c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\0a811e8901a69ce6a21289a21423e5d2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\629df545e205a06b3c98c1b420a6d7c8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\c273f64a60878178448c249cf70ef771\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\afb4249bfd9d8710e85e5812fc05c7e7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\f9af0658620c95d1c0d13ebdfc3b15ed\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\0b585556fad674431402b44f1d4ad9c8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\1d96399f1c132ea673fe3f96c8ca0aee\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\b2df651c6be5f4cbf842b908357dd1a3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\454fae1f9d44f4febdacc33873cbd2a6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a53af6b840df7023cc643807324a1513\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\70613d3da49bfcbfcc625d52505ec635\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\cc19b764a80bddec2df03923f70ad4d4\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\cf7def9464ce992eb266d9f922672e43\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\76e3a84c85fc3ae3c8492ed4ab27ab83\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\4f12153c1b2c1ae39c4c99815626440a\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\bda8fc70bfce0094c0e0668f143b2936\AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a317c668d57db047e7a1e851584eb557\AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\7463fe4176bc67e35a4eb6246cb30902\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\91afd028d10329f3a515a18e1da4d0e8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\b9236fb20d364931b6b225e6e287fa22\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\431cbce6dd162d685a52dfb8c485a278\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\6c0c59788912bb231d6b652ad4362362\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\d772f09b276d572273c5600f21c72670\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\1943360c292a39c33e23660edb9820fa\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\161e3b67fc571465d98d77ed9a6ff276\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\04437cd6eb14855995291b454371c893\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
-INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
-INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:2:1-77:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\76d826ded6ff6b6a3581ec49ef4dbad5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b337d8ce9c1bce2b49caac0e480f2fda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\396f5b190890d7bae52f34e2ce42d003\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-2\files-2.1\aae0c8d168879218e29074a45728a839\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\aea99636caea8ffc4665285171036ca2\AndroidManifest.xml:17:1-24:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4cd4ff8a21809b13469f6b1210dac3b2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\965b674d167675ff81dcab1794ebbaf0\AndroidManifest.xml:2:1-9:12
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ab51788fa678aba1c06867067110a163\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\65e6ecff36401a819b064e8f1c0d61d7\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\940d51a10616e8dcabd6f76c5630ceb2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\756c6dd5d0c69cb6c7d3aa35ec021311\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3447947b92074c5b73f48e4178309836\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\94cc98c453f5e7ed9070813e6ad3f545\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3f6a56a1ae92304cfd96243957552769\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5428b02db81a836ba784abeeed6de365\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\84d1571da3713697b0879d3400e42cf4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5a9a3b135af2e4e9709b3b89322bd1ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0b5024036fb058d78c7079f77c820297\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cdf6dd073fe328aa5c0f4dd57553553b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5daed8fec9ffa15321d722d8062c6d3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a031b8484976b768f8781bd75f8a4658\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\747ffff7e0c7abb39ac735e03d96add8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\270285a718ae67fca7733053a1fe5cb2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1f06645084f47c97b09c03066bb2520b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\6f69d3a26c24a13b82424d94f492dd06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\70ebbfb511331d24af736ca4fd07bbe6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\eefda947964ab832944d20cc71771c9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\2f2553a5f46b9bf4074dcb540e6b5866\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a29929474c1252c3d745c57aaeba0a2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\722d84804d6d0d741ab85398a45844d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4852b6c1eb6c7bf59831a410fbbb613c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a18e0957ab703af9694eb65172aab54a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\999a797147d8c827bc1bf502390e9e2f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\357f9ff3a28adcc031fb5f762d6e89a2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\66b694d1df8ad7325cfda91bd713c841\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\07cbb30a7e58a2920ac6887fa74f4948\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d0f84e6f41309b911a695ef33f62a71e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\daf713072eb6e83cda48665652ff1d56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4df8dfdf3731cb404bb83b8b05b5b638\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3cbdfd00f6060118160944d927adf5c5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9850c6946323540b483878f0768ed69d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f9479388b864043e44f90852cda96868\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\23844956efa2196c17fd70b2160120cf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\76992fefe5ac1f50eb458ec75fcb9f1f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1689d4c6666e9444c60b711d52c29576\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:2:1-77:12
 	package
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:4:11-43
-		INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:4:11-43
+		INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
-		INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:2:1-77:12
+		INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:3:11-57
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:3:11-57
 	android:versionCode
-		INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:1-77:12
-		INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:2:1-77:12
+		INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:5:5-65
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:5:5-65
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:5:22-62
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:5:22-62
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:6:5-66
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:6:22-63
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:6:22-63
 uses-permission#android.hardware.camera
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:7:5-63
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:7:5-63
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:7:22-60
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:7:22-60
 uses-permission#android.permission.LOCATION_HARDWARE.autofocus
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:8:5-86
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:8:5-86
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:8:22-83
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:8:22-83
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:10:5-79
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:10:22-76
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:10:22-76
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:11:5-67
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:11:22-64
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:11:22-64
 application
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:13:5-75:19
-MERGED from [com.android.support:design:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\abe87c8ac4cfff16bc521a90108ea5e7\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\abe87c8ac4cfff16bc521a90108ea5e7\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\090dd7a7314182cfcf6b659d431d2a31\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\090dd7a7314182cfcf6b659d431d2a31\AndroidManifest.xml:9:5-20
-MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\407ec149f84e90cea4489b307b2a77f1\AndroidManifest.xml:11:5-20
-MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\407ec149f84e90cea4489b307b2a77f1\AndroidManifest.xml:11:5-20
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\f3606a2b6a49bd29e27cc8c8e5a01b4b\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\f3606a2b6a49bd29e27cc8c8e5a01b4b\AndroidManifest.xml:7:5-20
-MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a653d3c617140a7956ba764d9de1bea3\AndroidManifest.xml:11:5-20
-MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a653d3c617140a7956ba764d9de1bea3\AndroidManifest.xml:11:5-20
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\3f6ecf9751aef18eb274c5b6df64d5c6\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\3f6ecf9751aef18eb274c5b6df64d5c6\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\cc59a8cfe9353a3bed4cd97af06d6c54\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\cc59a8cfe9353a3bed4cd97af06d6c54\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\fda8887bcbab46b81a377e89edcda0b3\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\fda8887bcbab46b81a377e89edcda0b3\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\143436dd527c2903623d456bee3cbb83\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\143436dd527c2903623d456bee3cbb83\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a5d11185cfab9c7832d749c7e8936b21\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a5d11185cfab9c7832d749c7e8936b21\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\cc19b764a80bddec2df03923f70ad4d4\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\cc19b764a80bddec2df03923f70ad4d4\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\cf7def9464ce992eb266d9f922672e43\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\cf7def9464ce992eb266d9f922672e43\AndroidManifest.xml:22:5-23:19
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:13:5-75:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\76d826ded6ff6b6a3581ec49ef4dbad5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\76d826ded6ff6b6a3581ec49ef4dbad5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-2\files-2.1\aae0c8d168879218e29074a45728a839\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-2\files-2.1\aae0c8d168879218e29074a45728a839\AndroidManifest.xml:9:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4cd4ff8a21809b13469f6b1210dac3b2\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4cd4ff8a21809b13469f6b1210dac3b2\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\965b674d167675ff81dcab1794ebbaf0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\965b674d167675ff81dcab1794ebbaf0\AndroidManifest.xml:7:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ab51788fa678aba1c06867067110a163\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ab51788fa678aba1c06867067110a163\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\65e6ecff36401a819b064e8f1c0d61d7\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\65e6ecff36401a819b064e8f1c0d61d7\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\940d51a10616e8dcabd6f76c5630ceb2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\940d51a10616e8dcabd6f76c5630ceb2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\756c6dd5d0c69cb6c7d3aa35ec021311\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\756c6dd5d0c69cb6c7d3aa35ec021311\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3447947b92074c5b73f48e4178309836\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3447947b92074c5b73f48e4178309836\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\94cc98c453f5e7ed9070813e6ad3f545\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\94cc98c453f5e7ed9070813e6ad3f545\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4852b6c1eb6c7bf59831a410fbbb613c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4852b6c1eb6c7bf59831a410fbbb613c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a18e0957ab703af9694eb65172aab54a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a18e0957ab703af9694eb65172aab54a\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\cc19b764a80bddec2df03923f70ad4d4\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4852b6c1eb6c7bf59831a410fbbb613c\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:18:13-39
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:18:13-39
 	android:label
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:16:13-45
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:16:13-45
 	android:appCategory
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:20:13-41
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:20:13-41
 	android:roundIcon
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:17:13-58
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:17:13-58
 	android:icon
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:15:13-47
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:15:13-47
 	android:allowBackup
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:14:13-39
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:14:13-39
 	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:19:13-44
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:19:13-44
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:22:9-23:75
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\143436dd527c2903623d456bee3cbb83\AndroidManifest.xml:23:9-25:69
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\143436dd527c2903623d456bee3cbb83\AndroidManifest.xml:23:9-25:69
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:22:9-23:75
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3447947b92074c5b73f48e4178309836\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3447947b92074c5b73f48e4178309836\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:23:20-73
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:23:20-73
 	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:22:20-65
-activity#com.tillduo.frequencia.LoginActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:25:9-27:60
-	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:25:19-55
-	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:26:19-62
-	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:27:19-48
-activity#com.tillduo.frequencia.CameraActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:29:9-31:61
-	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:29:19-55
-	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:30:19-62
-	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:31:19-49
-activity#com.tillduo.frequencia.ConfiguracaoActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:33:9-35:67
-	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:33:19-55
-	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:34:19-62
-	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:35:19-55
-activity#com.tillduo.frequencia.GruposActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:37:9-39:61
-	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:37:19-55
-	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:38:19-62
-	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:39:19-49
-activity#com.tillduo.frequencia.ContatosActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:41:9-43:63
-	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:41:19-55
-	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:42:19-62
-	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:43:19-51
-activity#com.tillduo.frequencia.DuvidasActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:45:9-47:62
-	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:45:19-55
-	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:46:19-62
-	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:47:19-50
-activity#com.tillduo.frequencia.RegistroMensalActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:49:9-51:69
-	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:49:19-55
-	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:50:19-62
-	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:51:19-57
-activity#com.tillduo.frequencia.NotificacaoActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:53:9-55:66
-	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:53:19-55
-	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:54:19-62
-	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:55:19-54
-activity#com.tillduo.frequencia.MainActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:57:9-60:20
-	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:58:19-55
-	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:57:19-62
-	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:59:19-47
-activity#com.tillduo.frequencia.RegistroDiarioActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:62:9-64:69
-	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:62:19-55
-	android:theme
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:63:19-62
-	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:64:19-57
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:22:20-65
 activity#com.tillduo.frequencia.CadastroActivity
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:66:9-74:20
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:25:9-27:63
 	android:screenOrientation
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:68:17-53
-	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:67:17-49
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:69:13-73:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:70:17-68
-	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:70:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:72:17-76
-	android:name
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml:72:27-74
-uses-sdk
-INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\abe87c8ac4cfff16bc521a90108ea5e7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\abe87c8ac4cfff16bc521a90108ea5e7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:mediarouter-v7:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\2552586eeb65e4cb4f10eb3019cbe102\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:mediarouter-v7:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\2552586eeb65e4cb4f10eb3019cbe102\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\02902021fa3f4bb2d8db7a3f33501ed0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\02902021fa3f4bb2d8db7a3f33501ed0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\090dd7a7314182cfcf6b659d431d2a31\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\090dd7a7314182cfcf6b659d431d2a31\AndroidManifest.xml:5:5-7:41
-MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\e3aa297681172dd570be8cd41cadd2dd\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\e3aa297681172dd570be8cd41cadd2dd\AndroidManifest.xml:20:5-22:41
-MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\407ec149f84e90cea4489b307b2a77f1\AndroidManifest.xml:7:5-9:41
-MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\407ec149f84e90cea4489b307b2a77f1\AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\f3606a2b6a49bd29e27cc8c8e5a01b4b\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\f3606a2b6a49bd29e27cc8c8e5a01b4b\AndroidManifest.xml:5:5-44
-MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a653d3c617140a7956ba764d9de1bea3\AndroidManifest.xml:7:5-9:41
-MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a653d3c617140a7956ba764d9de1bea3\AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\3f6ecf9751aef18eb274c5b6df64d5c6\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\3f6ecf9751aef18eb274c5b6df64d5c6\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\cc59a8cfe9353a3bed4cd97af06d6c54\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\cc59a8cfe9353a3bed4cd97af06d6c54\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\fda8887bcbab46b81a377e89edcda0b3\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\fda8887bcbab46b81a377e89edcda0b3\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\143436dd527c2903623d456bee3cbb83\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\143436dd527c2903623d456bee3cbb83\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a5d11185cfab9c7832d749c7e8936b21\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a5d11185cfab9c7832d749c7e8936b21\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\20bbcbc0b395e146188df23a9e9c8d7c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\20bbcbc0b395e146188df23a9e9c8d7c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\3547027845a9c88788c8f0df1773c799\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\3547027845a9c88788c8f0df1773c799\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\8bb1700739448be89de0f0447cb09313\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\8bb1700739448be89de0f0447cb09313\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a57545bb1c04387db69bf01d366e98f7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a57545bb1c04387db69bf01d366e98f7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\19a4138aaffecbc59d49bc08ce7ecd72\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\19a4138aaffecbc59d49bc08ce7ecd72\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\f5cbe78571f9707cf49adf41e2b9f12c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\f5cbe78571f9707cf49adf41e2b9f12c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\0a811e8901a69ce6a21289a21423e5d2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\0a811e8901a69ce6a21289a21423e5d2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\629df545e205a06b3c98c1b420a6d7c8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\629df545e205a06b3c98c1b420a6d7c8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\c273f64a60878178448c249cf70ef771\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\c273f64a60878178448c249cf70ef771\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\afb4249bfd9d8710e85e5812fc05c7e7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\afb4249bfd9d8710e85e5812fc05c7e7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\f9af0658620c95d1c0d13ebdfc3b15ed\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\f9af0658620c95d1c0d13ebdfc3b15ed\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\0b585556fad674431402b44f1d4ad9c8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\0b585556fad674431402b44f1d4ad9c8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\1d96399f1c132ea673fe3f96c8ca0aee\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\1d96399f1c132ea673fe3f96c8ca0aee\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\b2df651c6be5f4cbf842b908357dd1a3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\b2df651c6be5f4cbf842b908357dd1a3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\454fae1f9d44f4febdacc33873cbd2a6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\454fae1f9d44f4febdacc33873cbd2a6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a53af6b840df7023cc643807324a1513\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a53af6b840df7023cc643807324a1513\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\70613d3da49bfcbfcc625d52505ec635\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\70613d3da49bfcbfcc625d52505ec635\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\cc19b764a80bddec2df03923f70ad4d4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\cc19b764a80bddec2df03923f70ad4d4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\cf7def9464ce992eb266d9f922672e43\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\cf7def9464ce992eb266d9f922672e43\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\76e3a84c85fc3ae3c8492ed4ab27ab83\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\76e3a84c85fc3ae3c8492ed4ab27ab83\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\4f12153c1b2c1ae39c4c99815626440a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\4f12153c1b2c1ae39c4c99815626440a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\bda8fc70bfce0094c0e0668f143b2936\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\bda8fc70bfce0094c0e0668f143b2936\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a317c668d57db047e7a1e851584eb557\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a317c668d57db047e7a1e851584eb557\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\7463fe4176bc67e35a4eb6246cb30902\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\7463fe4176bc67e35a4eb6246cb30902\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\91afd028d10329f3a515a18e1da4d0e8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\91afd028d10329f3a515a18e1da4d0e8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\b9236fb20d364931b6b225e6e287fa22\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\b9236fb20d364931b6b225e6e287fa22\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\431cbce6dd162d685a52dfb8c485a278\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\431cbce6dd162d685a52dfb8c485a278\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\6c0c59788912bb231d6b652ad4362362\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\6c0c59788912bb231d6b652ad4362362\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\d772f09b276d572273c5600f21c72670\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\d772f09b276d572273c5600f21c72670\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\1943360c292a39c33e23660edb9820fa\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\1943360c292a39c33e23660edb9820fa\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\161e3b67fc571465d98d77ed9a6ff276\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\161e3b67fc571465d98d77ed9a6ff276\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\04437cd6eb14855995291b454371c893\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\04437cd6eb14855995291b454371c893\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
-	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a5d11185cfab9c7832d749c7e8936b21\AndroidManifest.xml:23:9-51
-	android:targetSdkVersion
-		INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
-	android:minSdkVersion
-		INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Thalyson Lira\Desktop\Icons\Frequencia-master\app\src\main\AndroidManifest.xml
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\3f6ecf9751aef18eb274c5b6df64d5c6\AndroidManifest.xml:23:9-26:75
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\3f6ecf9751aef18eb274c5b6df64d5c6\AndroidManifest.xml:25:13-37
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:25:19-55
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\3f6ecf9751aef18eb274c5b6df64d5c6\AndroidManifest.xml:26:13-72
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:26:19-62
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\3f6ecf9751aef18eb274c5b6df64d5c6\AndroidManifest.xml:24:13-79
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:27:19-51
+activity#com.tillduo.frequencia.CameraActivity
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:29:9-31:61
+	android:screenOrientation
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:29:19-55
+	android:theme
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:30:19-62
+	android:name
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:31:19-49
+activity#com.tillduo.frequencia.ConfiguracaoActivity
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:33:9-35:67
+	android:screenOrientation
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:33:19-55
+	android:theme
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:34:19-62
+	android:name
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:35:19-55
+activity#com.tillduo.frequencia.GruposActivity
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:37:9-39:61
+	android:screenOrientation
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:37:19-55
+	android:theme
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:38:19-62
+	android:name
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:39:19-49
+activity#com.tillduo.frequencia.ContatosActivity
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:41:9-43:63
+	android:screenOrientation
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:41:19-55
+	android:theme
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:42:19-62
+	android:name
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:43:19-51
+activity#com.tillduo.frequencia.DuvidasActivity
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:45:9-47:62
+	android:screenOrientation
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:45:19-55
+	android:theme
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:46:19-62
+	android:name
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:47:19-50
+activity#com.tillduo.frequencia.RegistroMensalActivity
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:49:9-51:69
+	android:screenOrientation
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:49:19-55
+	android:theme
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:50:19-62
+	android:name
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:51:19-57
+activity#com.tillduo.frequencia.NotificacaoActivity
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:53:9-55:66
+	android:screenOrientation
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:53:19-55
+	android:theme
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:54:19-62
+	android:name
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:55:19-54
+activity#com.tillduo.frequencia.MainActivity
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:57:9-60:20
+	android:screenOrientation
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:58:19-55
+	android:theme
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:57:19-62
+	android:name
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:59:19-47
+activity#com.tillduo.frequencia.RegistroDiarioActivity
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:62:9-64:69
+	android:screenOrientation
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:62:19-55
+	android:theme
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:63:19-62
+	android:name
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:64:19-57
+activity#com.tillduo.frequencia.LoginActivity
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:66:9-74:20
+	android:screenOrientation
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:68:17-53
+	android:name
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:67:17-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:69:13-73:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:70:17-68
+	android:name
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:70:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:72:17-76
+	android:name
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml:72:27-74
+uses-sdk
+INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\76d826ded6ff6b6a3581ec49ef4dbad5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\76d826ded6ff6b6a3581ec49ef4dbad5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b337d8ce9c1bce2b49caac0e480f2fda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b337d8ce9c1bce2b49caac0e480f2fda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\396f5b190890d7bae52f34e2ce42d003\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\396f5b190890d7bae52f34e2ce42d003\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-2\files-2.1\aae0c8d168879218e29074a45728a839\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-2\files-2.1\aae0c8d168879218e29074a45728a839\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\aea99636caea8ffc4665285171036ca2\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\aea99636caea8ffc4665285171036ca2\AndroidManifest.xml:20:5-22:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4cd4ff8a21809b13469f6b1210dac3b2\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4cd4ff8a21809b13469f6b1210dac3b2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\965b674d167675ff81dcab1794ebbaf0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\965b674d167675ff81dcab1794ebbaf0\AndroidManifest.xml:5:5-44
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ab51788fa678aba1c06867067110a163\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ab51788fa678aba1c06867067110a163\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\65e6ecff36401a819b064e8f1c0d61d7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\65e6ecff36401a819b064e8f1c0d61d7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\940d51a10616e8dcabd6f76c5630ceb2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\940d51a10616e8dcabd6f76c5630ceb2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\756c6dd5d0c69cb6c7d3aa35ec021311\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\756c6dd5d0c69cb6c7d3aa35ec021311\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3447947b92074c5b73f48e4178309836\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3447947b92074c5b73f48e4178309836\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\94cc98c453f5e7ed9070813e6ad3f545\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\94cc98c453f5e7ed9070813e6ad3f545\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3f6a56a1ae92304cfd96243957552769\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3f6a56a1ae92304cfd96243957552769\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5428b02db81a836ba784abeeed6de365\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5428b02db81a836ba784abeeed6de365\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\84d1571da3713697b0879d3400e42cf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\84d1571da3713697b0879d3400e42cf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5a9a3b135af2e4e9709b3b89322bd1ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5a9a3b135af2e4e9709b3b89322bd1ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0b5024036fb058d78c7079f77c820297\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0b5024036fb058d78c7079f77c820297\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cdf6dd073fe328aa5c0f4dd57553553b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cdf6dd073fe328aa5c0f4dd57553553b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5daed8fec9ffa15321d722d8062c6d3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5daed8fec9ffa15321d722d8062c6d3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a031b8484976b768f8781bd75f8a4658\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a031b8484976b768f8781bd75f8a4658\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\747ffff7e0c7abb39ac735e03d96add8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\747ffff7e0c7abb39ac735e03d96add8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\270285a718ae67fca7733053a1fe5cb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\270285a718ae67fca7733053a1fe5cb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1f06645084f47c97b09c03066bb2520b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1f06645084f47c97b09c03066bb2520b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\6f69d3a26c24a13b82424d94f492dd06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\6f69d3a26c24a13b82424d94f492dd06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\70ebbfb511331d24af736ca4fd07bbe6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\70ebbfb511331d24af736ca4fd07bbe6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\eefda947964ab832944d20cc71771c9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\eefda947964ab832944d20cc71771c9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\2f2553a5f46b9bf4074dcb540e6b5866\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\2f2553a5f46b9bf4074dcb540e6b5866\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a29929474c1252c3d745c57aaeba0a2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a29929474c1252c3d745c57aaeba0a2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\722d84804d6d0d741ab85398a45844d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\722d84804d6d0d741ab85398a45844d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4852b6c1eb6c7bf59831a410fbbb613c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4852b6c1eb6c7bf59831a410fbbb613c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a18e0957ab703af9694eb65172aab54a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a18e0957ab703af9694eb65172aab54a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\999a797147d8c827bc1bf502390e9e2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\999a797147d8c827bc1bf502390e9e2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\357f9ff3a28adcc031fb5f762d6e89a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\357f9ff3a28adcc031fb5f762d6e89a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\66b694d1df8ad7325cfda91bd713c841\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\66b694d1df8ad7325cfda91bd713c841\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\07cbb30a7e58a2920ac6887fa74f4948\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\07cbb30a7e58a2920ac6887fa74f4948\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d0f84e6f41309b911a695ef33f62a71e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d0f84e6f41309b911a695ef33f62a71e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\daf713072eb6e83cda48665652ff1d56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\daf713072eb6e83cda48665652ff1d56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4df8dfdf3731cb404bb83b8b05b5b638\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4df8dfdf3731cb404bb83b8b05b5b638\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3cbdfd00f6060118160944d927adf5c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3cbdfd00f6060118160944d927adf5c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9850c6946323540b483878f0768ed69d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9850c6946323540b483878f0768ed69d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f9479388b864043e44f90852cda96868\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f9479388b864043e44f90852cda96868\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\23844956efa2196c17fd70b2160120cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\23844956efa2196c17fd70b2160120cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\76992fefe5ac1f50eb458ec75fcb9f1f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\76992fefe5ac1f50eb458ec75fcb9f1f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1689d4c6666e9444c60b711d52c29576\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1689d4c6666e9444c60b711d52c29576\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\94cc98c453f5e7ed9070813e6ad3f545\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\StudioProjects\Frequencia\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\65e6ecff36401a819b064e8f1c0d61d7\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\65e6ecff36401a819b064e8f1c0d61d7\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\65e6ecff36401a819b064e8f1c0d61d7\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\65e6ecff36401a819b064e8f1c0d61d7\AndroidManifest.xml:24:13-79
 meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a5d11185cfab9c7832d749c7e8936b21\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\94cc98c453f5e7ed9070813e6ad3f545\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a5d11185cfab9c7832d749c7e8936b21\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\94cc98c453f5e7ed9070813e6ad3f545\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Thalyson Lira\.gradle\caches\transforms-2\files-2.1\a5d11185cfab9c7832d749c7e8936b21\AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\94cc98c453f5e7ed9070813e6ad3f545\AndroidManifest.xml:27:13-51

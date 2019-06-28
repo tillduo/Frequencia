@@ -58,7 +58,7 @@ class ManagerUsuario {
         fun popularLista() {
             listaUsuarios = ArrayList<Aluno>()
             listaUsuarios.add(Aluno("Thalyson", "thalyson@gmail.com", "anti"))
-            listaUsuarios.add(Aluno("Igor", "igor@gmail.com", "tuatizap"))
+            listaUsuarios.add(Aluno("Igor", "a", "a"))
             listaUsuarios.add(Aluno("Matheus", "matheusj@hotmail.com", "negaum"))
             listaUsuarios.add(Aluno("Rafael", "flamolino@gmail.com", "mangu"))
         }
