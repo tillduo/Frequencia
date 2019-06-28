@@ -75,8 +75,7 @@ class RegistroDiarioActivity : AppCompatActivity() {
         finish()
     }
 
-    private fun criaRegistroInicial(recyclerView: RecyclerView){
-        recyclerView.adapter = RegistroListAdapter(listOf(Registro(dataCadInicial, "Entrada na Aula")), this)
+    private fun criaRegistroInicial(recyclerView: RecyclerView){ recyclerView.adapter = RegistroListAdapter(listOf(Registro(dataCadInicial, "Entrada na Aula")), this)
     }
 
     private fun criaRegistros(titulo: String, descricao: String, recyclerView: RecyclerView){
